@@ -22,7 +22,7 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<tr><td valign="top" width="100%">
 
 - A Computer Science and Engineering Student at Jadavpur University 🙂  
   
@@ -38,9 +38,6 @@
 
 </td><td valign="top" width="50%">
 
-
-
-</td></tr></table>  
 
 <br/>  
 
