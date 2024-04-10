@@ -75,9 +75,9 @@
 
 
 ## Github Stats  
-<div valign="top" width="100%">
+<div valign="top" width="75%%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sourav-n06&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sourav-n06&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 75%%" />
 
 </div valign="top" width="75%%">
 
