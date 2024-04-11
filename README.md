@@ -39,7 +39,7 @@ Fueling the future of tech with DSA expertise and boundless development zeal. Le
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://media1.tenor.com/m/mV5ycTPTpxkAAAAC/sinchan-hello.gif" align="center" style="width: 100%" />
+<img src="https://media1.tenor.com/m/mV5ycTPTpxkAAAAC/sinchan-hello.gif" align="center" style="width: 50%" />
 </div>  
 
 
