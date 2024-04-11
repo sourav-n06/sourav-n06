@@ -106,4 +106,3 @@ Fueling the future of tech with DSA expertise and boundless development zeal. Le
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
