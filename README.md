@@ -80,8 +80,9 @@ Fueling the future of tech with DSA expertise and boundless development zeal. Le
 
 <br/>  
 
-
+<!--
 ## Github Stats  
+
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sourav-n06&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -100,10 +101,10 @@ Fueling the future of tech with DSA expertise and boundless development zeal. Le
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=sourav-n06&&style=flat-square)  
   
-
+-->
 <br/>  
 
 
-<br />
+<br /> 
 
 ----
